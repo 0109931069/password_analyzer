@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #5d5a5a;
+    color: rgb(243, 237, 237);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #646564;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#suggestions {
+    margin-top: 10px;
+    color: #666;
+}
